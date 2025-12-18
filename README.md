@@ -119,9 +119,8 @@ PROJECT-4-TWEET-SENTIMENT-PHRASE-EXTRACTION/
 │   ├── roberta_epoch_1.bin            # Model checkpoint (epoch 1)
 │   ├── roberta_epoch_2.bin            # Model checkpoint (epoch 2)
 │   └── roberta_epoch_3.bin            # Model checkpoint (epoch 3)
-├──  reports/
-│   ├── Tweet_Sentiment_Analysis_Report.pdf    #  MAIN SUBMISSION
-│   └── Tweet_Sentiment_Analysis_Report.md     #  GitHub-friendly version  
+├──  Tweet_Sentiment_Analysis_Report.docx
+│    
 └── .gitattributes                     # Git LFS configuration for model files
 
 
